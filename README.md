@@ -1,2 +1,2 @@
 # Spotify-Clone
-A responsive Spotify clone built using HTML and CSS, replicating the core UI and layout of Spotify. Developed using Visual Studio Code.
+A responsive Spotify Clone UI built using HTML and CSS, designed to replicate the look and feel of Spotify’s web interface. This project focuses on front-end layout, styling, and responsiveness across different screen sizes.
